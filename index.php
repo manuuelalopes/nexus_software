@@ -8,13 +8,13 @@
 </head>
 <body>
     <!-- primeiro titulo do site -->
-    <h1>nexus software</h1> 
+    <h1>Nexus Software ©</h1> 
     <?php
     // "prints" para mostrar o texto na tela e "br" para quebrar a linha
-    echo "<h2><strong> nexus software é uma empresa dedicada a fornecer soluções tecnológicas de qualidade.</strong></h2>";?> <br>
+    echo "<h2><strong> Nexus Software é uma empresa dedicada a fornecer soluções tecnológicas de qualidade.</strong></h2>";?> 
     <?php
-    echo "<h3><strong> foco em excelência e inovação.</strong></h3>";?> <br>
+    echo "<h2><strong> Foco em excelência e inovação!</strong></h2>";?> 
     <?php
-    echo "<h4><strong> Fale Conosco no WhatsApp: 19 99999-9999</strong></h4>";?> <br>
+    echo "<h4><strong> fale conosco no WhatsApp: 19 99999-9999</strong></h4>";?> <br>
 </body>
 </html>
